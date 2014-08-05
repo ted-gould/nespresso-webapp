@@ -1,0 +1,17 @@
+{
+    "architecture": "all",
+    "description": "Nespresso (webapp)",
+    "framework": "ubuntu-sdk-14.04",
+    "hooks": {
+        "chase": {
+            "apparmor": "webapp-nespresso.json",
+            "desktop": "webapp-nespresso.desktop",
+            "urls": "webapp-nespresso.url-dispatcher"
+        }
+    },
+    "icon": "nespresso-webapp.png",
+    "maintainer": "Ted Gould <ted@gould.cx>",
+    "name": "cx.gould.ted.nespresso-webapp",
+    "title": "Nespresso",
+    "version": "0.1"
+}

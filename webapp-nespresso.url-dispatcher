@@ -1,0 +1,10 @@
+[
+	{
+		"protocol": "https",
+		"suffix": "nespresso.com"
+	},
+	{
+		"protocol": "http",
+		"suffix": "nespresso.com"
+	}
+]

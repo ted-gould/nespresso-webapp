@@ -2,7 +2,7 @@
 Name=Nespresso
 Type=Application
 Icon=nespresso-webapp.png
-Exec=webapp-container --store-session-cookies --webappUrlPatterns=https://*.nespresso.com/* https://mobile.nespresso.com/
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=https://*.nespresso.com/* http://mobile.nespresso.com/
 Terminal=false
 X-Ubuntu-Touch=true
 X-Ubuntu-StageHint=SideStage

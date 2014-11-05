@@ -3,7 +3,7 @@
     "description": "Nespresso (webapp)",
     "framework": "ubuntu-sdk-14.04",
     "hooks": {
-        "chase": {
+        "nespresso": {
             "apparmor": "webapp-nespresso.json",
             "desktop": "webapp-nespresso.desktop",
             "urls": "webapp-nespresso.url-dispatcher"
